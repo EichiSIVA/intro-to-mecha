@@ -11,9 +11,9 @@
 ## 手順
 1. 以下のデータシートを参考にCADデータを設計してみましょう
 
-![motorsize.jpeg](./img/motorsize.jpeg)
+**（380シリーズのギア比1/75を設計してください）**
 
-（380シリーズのギア比1/75を設計してください）
+![motorsize.jpeg](./img/motorsize.jpeg)
 
 2. CADデータ[「モーターマウント」](./CAD_data/Tamiya_MotorMount.SLDPRT)をダウンロードし、作成したTamiya 380K75と組み合わせたアセンブリを作成してみましょう
 
