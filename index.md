@@ -6,7 +6,7 @@
 
 
 ## 目次
-- 第１回　[SOLIDWORKSの使い方]()
+- 第１回　[SOLIDWORKSの使い方](Lecture1_SOLIDWORKSintro.md)
 
     設計課題　[角柱の組み合わせ](exercise_1.md)
 
@@ -18,7 +18,7 @@
 
     設計課題　[ラックピニオン昇降装置](exercise_3.md)
 
-- 第４回　[主駆動機構（２）]()
+- 第４回　[主駆動機構（２）](main-mecha_2.md)
 
     設計課題　[簡単なリンクアーム](exercise_4.md)
 
