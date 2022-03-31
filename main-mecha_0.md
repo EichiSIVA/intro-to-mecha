@@ -188,4 +188,4 @@ DCモータ単体ではトルクがいまいち足りないことが多々ある
 
 ---
 
-[第１回](Lecture1_SOLIDWORKSintro.md)　　　[ホーム](index.md)　　　[第３回](./main-mecha_1.md))
+[第１回](Lecture1_SOLIDWORKSintro.md)　　　[ホーム](index.md)　　　[第３回](./main-mecha_1.md)
