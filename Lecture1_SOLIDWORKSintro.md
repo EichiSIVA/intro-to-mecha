@@ -1,4 +1,4 @@
-# 第１回「SOLIDWORKS」の使い方
+# 第１回「SOLIDWORKSの使い方」
 
 # SOLIDWORKSで図形を描いてみよう！（スケッチ）
 
@@ -244,4 +244,4 @@ ___
 
 ---
 
-[ホーム](index.md)　　　[第２回]()
+[ホーム](index.md)　　　[第２回](main-mecha_0.md)
