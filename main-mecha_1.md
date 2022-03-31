@@ -227,9 +227,9 @@ CADデータをダウンロードするとCAD上で仕組みを確認するこ�
     https://www.youtube.com/watch?v=s7oVTGv9uy4&t=85s
 
 
-# 4. 第3回設計課題
+# 4. 第３回設計課題
 今回の設計課題については [こちら](exercise_3.md) をご覧ください。
 
 ---
 
-[第２回]()　　　[ホーム](index.md)　　　[第４回]()
+[第２回](./main-mecha_0.md)　　　[ホーム](index.md)　　　[第４回](main-mecha_2.md)
