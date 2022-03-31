@@ -13,7 +13,7 @@
 
 設計時は数値計算等を行うというよりも、CADソフトなどを利用してシミュレーションしてみたり、実際に試作品を作ったりして実際に動くかを確かめるような手探りの作業になります
 
-<iframe width='694' height='420' src='https://www.youtube.com/embed/ASsioh8asQo' title='YouTube video player' allowfullscreen=''></iframe>
+<iframe width='694' height='420' src='https://www.youtube.com/embed/ASsioh8asQo' title='YouTube video player' frameborder='0' allowfullscreen=''></iframe>
 
 
 ## 必要なもの
@@ -39,7 +39,7 @@
 
 平行移動が可能です
 
-<iframe width='694' height='420' src='https://www.youtube.com/embed/Gmh11809j1I' title='YouTube video player' allowfullscreen=''></iframe>
+<iframe width='694' height='420' src='https://www.youtube.com/embed/Gmh11809j1I' title='YouTube video player' frameborder='0' allowfullscreen=''></iframe>
 
 * 簡単なハンド
 
