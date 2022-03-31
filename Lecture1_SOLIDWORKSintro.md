@@ -242,6 +242,9 @@ ___
 [SOLIDWORKSの使い方　中上級編](https://kra.kibe.la/notes/4992)
 を参照ください。
 
+# 第１回設計課題
+今回の設計課題については [こちら](./exercise_1.md) をご覧ください。
+
 ---
 
 [ホーム](index.md)　　　[第２回](main-mecha_0.md)
