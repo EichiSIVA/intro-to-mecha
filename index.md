@@ -6,7 +6,7 @@
 
 
 ## 目次
-- 第１回　[SOLIDWORKSの使い方]()
+- 第１回　[SOLIDWORKSの使い方](Lecture1_SOLIDWORKSintro.md)
 
     設計課題　[角柱の組み合わせ](exercise_1.md)
 
