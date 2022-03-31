@@ -8,7 +8,7 @@
 * 依頼加工やレーザー加工機での加工で使用するDXFファイルの作成を行うことができる
 
 ## 手順
-1. [こちら](./CAD_data/Underbody_files) から作成された足回りのCADデータをダウンロードする
+1. [こちら](https://drive.google.com/drive/folders/1Rm1056cfFCJZqUgLC-ajJZTgdozVUwTQ?usp=sharing) から作成された足回りのCADデータをダウンロードする
 
 2. フォルダ「Draw」（など新しいものを1つ）を作成する
 
