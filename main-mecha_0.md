@@ -186,6 +186,9 @@ DCモータ単体ではトルクがいまいち足りないことが多々ある
 * https://punjabisongspb.com/?p=173
 * [https://hackmd.io/@moden3/HJzjAS9BD#空気圧](https://hackmd.io/@moden3/HJzjAS9BD#%E7%A9%BA%E6%B0%97%E5%9C%A7)
 
+## 第２回設計課題
+今回の設計課題については [こちら](./exercise_2.md) をご覧ください。
+
 ---
 
 [第１回](Lecture1_SOLIDWORKSintro.md)　　　[ホーム](index.md)　　　[第３回](./main-mecha_1.md)
