@@ -71,7 +71,8 @@
 
 ## 参考文献
 * ラックピニオン昇降の参考：
-https://jp.misumi-ec.com/ec/incadlibrary/detail/000839.html
+
+    https://jp.misumi-ec.com/ec/incadlibrary/detail/000839.html
 
 ---
 
