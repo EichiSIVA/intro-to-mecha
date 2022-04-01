@@ -183,7 +183,7 @@
 
 ![rink](./img/rink1.PNG) 
 
-![koko](./img/2022-03-25_20-45-00_AdobeCreativeCloudExpress.gif)
+![koko](./img/2022-03-25_20-45-00.gif)
 
 * [より実用的なハンド](https://jp.misumi-ec.com/ec/incadlibrary/detail/000835.html)
 
