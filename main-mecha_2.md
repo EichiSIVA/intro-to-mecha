@@ -81,7 +81,7 @@
 
 また、以下の画像がラジアルベアリングとスラストベアリングを両方用いた例です。
 
-![img](https://blog-imgs-69-origin.fc2.com/5/5/l/55life555/20140531234400e33.jpg)
+![img](./img/IMG_4485.jpeg)
 
 （https://55life555.blog.fc2.com/?tag=%E3%83%9C%E3%83%BC%E3%83%AB%E7%9B%A4&page=1 より引用）
 
