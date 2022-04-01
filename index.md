@@ -28,6 +28,6 @@
 
 - 第６回　[足回りについて](Lecture6.md)
 
-- その他
+## その他
 
-    [CADデータのダウンロード方法](download_cad.md)
+ - [CADデータのダウンロード方法](download_cad.md)
