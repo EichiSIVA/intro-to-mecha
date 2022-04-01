@@ -139,13 +139,14 @@
 
 # 2. リンク機構
 リンク機構は設計の幅を広げてくれる重要な機構要素の一つです
+
 例えば、電車のパンタグラフなど日常生活でも目にすることが多いと思われます
 
 ロボットの分野では、特にロボットハンドに利用されることが多い印象です
 
 設計時は数値計算等を行うというよりも、CADソフトなどを利用してシミュレーションしてみたり、実際に試作品を作ったりして実際に動くかを確かめるような手探りの作業になります
 
-<iframe src='https://www.youtube.com/embed/ASsioh8asQo'></iframe>
+[![](https://img.youtube.com/vi/ASsioh8asQo/0.jpg)](https://www.youtube.com/watch?v=ASsioh8asQo)
 
 ## 必要なもの
 
@@ -170,7 +171,7 @@
 
 平行移動が可能です
 
-<iframe src='https://www.youtube.com/embed/Gmh11809j1I'></iframe>
+[![](https://img.youtube.com/vi/Gmh11809j1I/0.jpg)](https://www.youtube.com/watch?v=Gmh11809j1I)
 
 * 簡単なハンド
 
@@ -180,7 +181,9 @@
 
 このハンドの場合、利用するアクチュエータは恐らく空圧になり、シリンダのストロークによりハンドの開閉が行われます
 
-![rink](./img/rink1.PNG) ![koko](./img/2022-03-25_20-45-00_AdobeCreativeCloudExpress.gif)
+![rink](./img/rink1.PNG) 
+
+![koko](./img/2022-03-25_20-45-00.gif)
 
 * [より実用的なハンド](https://jp.misumi-ec.com/ec/incadlibrary/detail/000835.html)
 
