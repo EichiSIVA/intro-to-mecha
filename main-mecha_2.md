@@ -136,18 +136,6 @@
 
 カップリングを用いて軸を延長し、モーターと回転軸を締結させているのがわかると思います。
 
-# 2. リンク機構
-
-
-# 3. 参考文献・引用文献
-* 回転体と軸の締結：
-https://keiorogiken.wordpress.com/2016/12/15/%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e8%a8%ad%e8%a8%88%e3%81%ae%e5%8b%98%e6%89%80%e3%80%80%ef%bd%9e%e8%bb%b8%e3%81%a8%e5%9b%9e%e8%bb%a2%e4%bd%93%e3%81%ae%e7%b7%a0%e7%b5%90%ef%bd%9e/
-
-* ラジアルベアリングとスラストベアリングの使用例：
-https://55life555.blog.fc2.com/?tag=%E3%83%9C%E3%83%BC%E3%83%AB%E7%9B%A4&page=1
-
-* カップリングの基礎：
-https://jp.misumi-ec.com/tech-info/categories/machine_design/md05/d0011.html
 
 # 2. リンク機構
 リンク機構は設計の幅を広げてくれる重要な機構要素の一つです
@@ -227,6 +215,18 @@ https://twitter.com/i/status/1246614778392576000
  よって、リンク機構の設計及び利用する際には、リンクには回転角度に限界があることに注意しましょう！
 
 ## 参考文献
+* 回転体と軸の締結：
+
+    https://keiorogiken.wordpress.com/2016/12/15/%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e8%a8%ad%e8%a8%88%e3%81%ae%e5%8b%98%e6%89%80%e3%80%80%ef%bd%9e%e8%bb%b8%e3%81%a8%e5%9b%9e%e8%bb%a2%e4%bd%93%e3%81%ae%e7%b7%a0%e7%b5%90%ef%bd%9e/
+
+* ラジアルベアリングとスラストベアリングの使用例：
+
+    https://55life555.blog.fc2.com/?tag=%E3%83%9C%E3%83%BC%E3%83%AB%E7%9B%A4&page=1
+
+* カップリングの基礎：
+
+    https://jp.misumi-ec.com/tech-info/categories/machine_design/md05/d0011.html
+
 
 * [リンク機構の例一覧【40動画以上】 - 機械設計学習館](https://md-study.com/link-mechanism/#i-20)
 * [支点段付ねじ　六角穴 \| ミスミ \| MISUMI-VONA【ミスミ】](https://jp.misumi-ec.com/vona2/detail/110302642870/?list=PageCategory)
@@ -234,3 +234,11 @@ https://twitter.com/i/status/1246614778392576000
 * http://karakurist.jp/?p=52
 * [【部品組合せテンプレート】 リンクを用いた簡易位置決め機構 \| inCAD Library (misumi-ec.com)](https://jp.misumi-ec.com/ec/incadlibrary/detail/000835.html)
 * https://twitter.com/UniverCurious/status/1246614778392576000
+
+
+# 4. 第４回設計課題
+今回の設計課題については [こちら](exercise_4.md) をご覧ください。
+
+---
+
+[第３回](main-mecha_1.md)　　　[ホーム](index.md)　　　[第５回](main-mecha_3.md)
