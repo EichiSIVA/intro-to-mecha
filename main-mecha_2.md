@@ -181,7 +181,9 @@
 
 このハンドの場合、利用するアクチュエータは恐らく空圧になり、シリンダのストロークによりハンドの開閉が行われます
 
-![rink](./img/rink1.PNG) ![koko](./img/2022-03-25_20-45-00_AdobeCreativeCloudExpress.gif)
+![rink](./img/rink1.PNG) 
+
+![koko](./img/2022-03-25_20-45-00_AdobeCreativeCloudExpress.gif)
 
 * [より実用的なハンド](https://jp.misumi-ec.com/ec/incadlibrary/detail/000835.html)
 
