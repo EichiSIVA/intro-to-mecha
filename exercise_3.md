@@ -7,7 +7,7 @@
 
 ## 材料
 * ローラースライドレール（幅25mm、長さ320mm）（1個）
-（[こちら](https://jp.misumi-ec.com/vona2/detail/110300067840/?HissuCode=RSRR25-320) からダウンロード）
+（[こちら](https://jp.misumi-ec.com/vona2/detail/110300067840/?PNSearch=RSR25-320&HissuCode=RSR25-320&searchFlow=suggest2products&Keyword=RSR25-320&list=SuggestPreview) からダウンロード）
 
 * DR成形フレキラック（モジュール1、長さ2000mm）（1個）
 （[こちら](https://jp.misumi-ec.com/vona2/detail/221004937839/?HissuCode=DR1-2000) からダウンロード）
