@@ -146,7 +146,7 @@
 
 設計時は数値計算等を行うというよりも、CADソフトなどを利用してシミュレーションしてみたり、実際に試作品を作ったりして実際に動くかを確かめるような手探りの作業になります
 
-[![](https://img.youtube.com/vi/ASsioh8asQo/0.jpg)](https://www.youtube.com/watch?v=ASsioh8asQo)
+<iframe width="584" height="578" src="https://www.youtube.com/embed/ASsioh8asQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 必要なもの
 
