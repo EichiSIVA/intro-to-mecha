@@ -13,7 +13,7 @@
 
 ![gif](https://i0.wp.com/karakurist.jp/wp/wp-content/uploads/2019/08/%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A2%E3%83%B3%E3%83%88%E3%82%99%E3%83%92%E3%82%9A%E3%83%8B%E3%82%AA%E3%83%B3c.gif)
 
-（http://karakurist.jp/?p=24 より引用）
+（[http://karakurist.jp/?p=24](http://karakurist.jp/?p=24) より引用）
 
 これが、ラックピニオンです。仕組みは簡単ですね。ピニオンが回ることによってラックが直動運動をする機構です。もちろんラック側を固定してピニオンを回せばピニオン側を直動運動させることができます。
 
@@ -43,7 +43,7 @@ MiSUMiでリニアガイドレールと検索してみてください。する�
 
 ![c1087_02](./img/c1087_02.png)
 
-（https://jp.misumi-ec.com/tech-info/categories/machine_design/md01/c1087.html より引用）
+（[https://jp.misumi-ec.com/tech-info/categories/machine_design/md01/c1087.html](https://jp.misumi-ec.com/tech-info/categories/machine_design/md01/c1087.html) より引用）
 
 ボールがブロックの中を出たり入ったりすることによってレールとの摩擦を減らし、スムーズに直動するという仕組みです。
 このリニアガイドレール以外にも、価格を抑えたリニアガイド型のレールやスライドレールと呼ばれる部品もあります。MiSUMiで検索して実際に確かめて理解を深めてみてください。
@@ -61,7 +61,7 @@ MiSUMiでリニアガイドレールと検索してみてください。する�
 
 ![スクリーンショット (14) 1](./img/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(14)%201.png)
 
-（https://jp.misumi-ec.com/ec/incadlibrary/detail/000035.html より引用）
+（[https://jp.misumi-ec.com/ec/incadlibrary/detail/000035.html](https://jp.misumi-ec.com/ec/incadlibrary/detail/000035.html) より引用）
 
 この画像をよくみていただくと、この機構にもリニアガイドが使用されていることが分かります。せっかくなので詳細をよく確認するために、ここでCADデータをダウンロードしてみましょう。
 
@@ -77,7 +77,7 @@ CADデータをダウンロードするとCAD上で仕組みを確認するこ�
 
 ![No. 000701](./img/No.%20000701.png)
 
-（https://jp.misumi-ec.com/ec/incadlibrary/detail/000701.html より引用）
+（[https://jp.misumi-ec.com/ec/incadlibrary/detail/000701.html](https://jp.misumi-ec.com/ec/incadlibrary/detail/000701.html) より引用）
 
 どのように動作するのかを確認するために、ここで一度リンクにアクセスして動画を再生してみましょう。かなり複雑な設計になっていますが、どのような仕組みで動作しているのかは理解できると思います。
 
@@ -90,7 +90,7 @@ CADデータをダウンロードするとCAD上で仕組みを確認するこ�
 
 ![No. 000425](./img/No.%20000425.png)
 
-（https://jp.misumi-ec.com/ec/incadlibrary/detail/000425.html より引用）
+（[https://jp.misumi-ec.com/ec/incadlibrary/detail/000425.html](https://jp.misumi-ec.com/ec/incadlibrary/detail/000425.html) より引用）
 
 ### タイミングベルトとプーリー、アイドラー
 タイミングベルトとは、内側に歯のついたベルトのことです。通常、プーリーという歯の形で凹んだ部品と組み合わせて使用します。アイドラーとは、従動回転させるプーリーのことで、モーターに取り付ける方がプーリー、自由回転する方がアイドラーです。形の詳細は下の画像を参考にしてください。左側がタイミングベルトで右側がプーリーです。また、異なるものもありますが、アイドラーはプーリーと似た形をしているものが多いです。
