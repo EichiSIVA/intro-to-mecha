@@ -70,11 +70,7 @@ PDF形式：編集不可
 
 実際に解説動画を制作しました（初めてなので質が低い）
 
-<iframe width="100%" height="315"
- src="https://drive.google.com/file/d/1VT8coQHQ2b63Rgq0zXitO6EZzDAzXCQO/view?usp=sharing"
- frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
- allowfullscreen>
-</iframe>
+<iframe src="https://drive.google.com/file/d/1VT8coQHQ2b63Rgq0zXitO6EZzDAzXCQO/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## 3. 第５回設計課題
 今回の設計課題については [こちら](exercise_5.md) をご覧ください。
