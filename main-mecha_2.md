@@ -83,7 +83,7 @@
 
 ![img](./img/IMG_4485.jpeg)
 
-（https://55life555.blog.fc2.com/?tag=%E3%83%9C%E3%83%BC%E3%83%AB%E7%9B%A4&page=1 より引用）
+（[https://55life555.blog.fc2.com/?tag=%E3%83%9C%E3%83%BC%E3%83%AB%E7%9B%A4&page=1](https://55life555.blog.fc2.com/?tag=%E3%83%9C%E3%83%BC%E3%83%AB%E7%9B%A4&page=1) より引用）
 
 このように、ベアリングはラジアル方向に用いるか、スラスト方向に用いるかを考えて設計していきましょう。
 
@@ -116,7 +116,7 @@
 
 ![d0011_07b](https://jp.misumi-ec.com/tech-info/sites/default/files/media/jp/d0011/d0011_07b.png)
 
-（https://jp.misumi-ec.com/tech-info/categories/machine_design/md05/d0011.html より引用）
+（[https://jp.misumi-ec.com/tech-info/categories/machine_design/md05/d0011.html](https://jp.misumi-ec.com/tech-info/categories/machine_design/md05/d0011.html) より引用）
 
 左側に描かれているのは、モーターとボールねじをカップリングにて固定している様子です。
 
@@ -126,7 +126,7 @@
 
 ![スクリーンショット 2022-03-31 232420](./img/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202022-03-31%20232420.png)
 
-（https://jp.misumi-ec.com/tech-info/categories/machine_design/md05/d0011.html より引用）
+（[https://jp.misumi-ec.com/tech-info/categories/machine_design/md05/d0011.html](https://jp.misumi-ec.com/tech-info/categories/machine_design/md05/d0011.html) より引用）
 
 こちらに書かれているように、偏心・偏角の種類以外に構造によるバリエーションがあります。NHKロボコン2022の足回りには、許容トルクの高いオルダムのタイプのカップリングを用いています。バリエーションや種類は使用用途に応じて考えていきましょう。
 
@@ -220,15 +220,15 @@ https://twitter.com/i/status/1246614778392576000
 ## 参考文献
 * 回転体と軸の締結：
 
-    https://keiorogiken.wordpress.com/2016/12/15/%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e8%a8%ad%e8%a8%88%e3%81%ae%e5%8b%98%e6%89%80%e3%80%80%ef%bd%9e%e8%bb%b8%e3%81%a8%e5%9b%9e%e8%bb%a2%e4%bd%93%e3%81%ae%e7%b7%a0%e7%b5%90%ef%bd%9e/
+    [https://keiorogiken.wordpress.com/2016/12/15/%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e8%a8%ad%e8%a8%88%e3%81%ae%e5%8b%98%e6%89%80%e3%80%80%ef%bd%9e%e8%bb%b8%e3%81%a8%e5%9b%9e%e8%bb%a2%e4%bd%93%e3%81%ae%e7%b7%a0%e7%b5%90%ef%bd%9e/](https://keiorogiken.wordpress.com/2016/12/15/%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e8%a8%ad%e8%a8%88%e3%81%ae%e5%8b%98%e6%89%80%e3%80%80%ef%bd%9e%e8%bb%b8%e3%81%a8%e5%9b%9e%e8%bb%a2%e4%bd%93%e3%81%ae%e7%b7%a0%e7%b5%90%ef%bd%9e/)
 
 * ラジアルベアリングとスラストベアリングの使用例：
 
-    https://55life555.blog.fc2.com/?tag=%E3%83%9C%E3%83%BC%E3%83%AB%E7%9B%A4&page=1
+    [https://55life555.blog.fc2.com/?tag=%E3%83%9C%E3%83%BC%E3%83%AB%E7%9B%A4&page=1](https://55life555.blog.fc2.com/?tag=%E3%83%9C%E3%83%BC%E3%83%AB%E7%9B%A4&page=1)
 
 * カップリングの基礎：
 
-    https://jp.misumi-ec.com/tech-info/categories/machine_design/md05/d0011.html
+    [https://jp.misumi-ec.com/tech-info/categories/machine_design/md05/d0011.html](https://jp.misumi-ec.com/tech-info/categories/machine_design/md05/d0011.html)
 
 
 * [リンク機構の例一覧【40動画以上】 - 機械設計学習館](https://md-study.com/link-mechanism/#i-20)
