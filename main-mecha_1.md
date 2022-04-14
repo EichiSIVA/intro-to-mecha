@@ -188,43 +188,43 @@ CADデータをダウンロードするとCAD上で仕組みを確認するこ�
 # 3. 参考文献・引用文献
 * ラックピニオンのアニメーション：
 
-    http://karakurist.jp/?p=24
+    [http://karakurist.jp/?p=24](http://karakurist.jp/?p=24)
 
 * 小型ラックピニオン直動機構：
 
-    https://qiita.com/haxhimitsu/items/b15a2ed363ef052e7b2d
+    [https://qiita.com/haxhimitsu/items/b15a2ed363ef052e7b2d](https://qiita.com/haxhimitsu/items/b15a2ed363ef052e7b2d)
 
 * リニアガイドレールの仕組み：
 
-    https://jp.misumi-ec.com/tech-info/categories/machine_design/md01/c1087.html
+    [https://jp.misumi-ec.com/tech-info/categories/machine_design/md01/c1087.html](https://jp.misumi-ec.com/tech-info/categories/machine_design/md01/c1087.html)
 
 * エアシリンダー直動機構：
 
-    https://jp.misumi-ec.com/ec/incadlibrary/detail/000035.html
+    [https://jp.misumi-ec.com/ec/incadlibrary/detail/000035.html](https://jp.misumi-ec.com/ec/incadlibrary/detail/000035.html)
 
 * エアシリンダーストローク増幅方法：
 
-    https://jp.misumi-ec.com/ec/incadlibrary/detail/000701.html
+    [https://jp.misumi-ec.com/ec/incadlibrary/detail/000701.html](https://jp.misumi-ec.com/ec/incadlibrary/detail/000701.html)
 
 * ベルト駆動直動機構：
 
-    https://jp.misumi-ec.com/ec/incadlibrary/detail/000425.html
+    [https://jp.misumi-ec.com/ec/incadlibrary/detail/000425.html](https://jp.misumi-ec.com/ec/incadlibrary/detail/000425.html)
 
 * ボールネジ直動機構：
 
-    https://jp.misumi-ec.com/ec/incadlibrary/detail/000031.html?clkid=clkid_incad_case_oth1_sc640_201910
+    [https://jp.misumi-ec.com/ec/incadlibrary/detail/000031.html?clkid=clkid_incad_case_oth1_sc640_201910](https://jp.misumi-ec.com/ec/incadlibrary/detail/000031.html?clkid=clkid_incad_case_oth1_sc640_201910)
 
 * AliExpressボールネジ商品紹介ページ：
 
-    https://ja.aliexpress.com/item/32677434582.html?spm=a2g0o.productlist.0.0.9ba63ba0ORba4b&algo_pvid=1952bd5c-735f-4e04-b6ba-a2a0a190e79a&algo_exp_id=1952bd5c-735f-4e04-b6ba-a2a0a190e79a-8&pdp_ext_f=%7B%22sku_id%22%3A%2212000025074729628%22%7D&pdp_pi=-1%3B4766.0%3B-1%3B255.0%40salePrice%3BJPY%3Bsearch-mainSearch
+    [https://ja.aliexpress.com/item/32677434582.html?spm=a2g0o.productlist.0.0.9ba63ba0ORba4b&algo_pvid=1952bd5c-735f-4e04-b6ba-a2a0a190e79a&algo_exp_id=1952bd5c-735f-4e04-b6ba-a2a0a190e79a-8&pdp_ext_f=%7B%22sku_id%22%3A%2212000025074729628%22%7D&pdp_pi=-1%3B4766.0%3B-1%3B255.0%40salePrice%3BJPY%3Bsearch-mainSearch](https://ja.aliexpress.com/item/32677434582.html?spm=a2g0o.productlist.0.0.9ba63ba0ORba4b&algo_pvid=1952bd5c-735f-4e04-b6ba-a2a0a190e79a&algo_exp_id=1952bd5c-735f-4e04-b6ba-a2a0a190e79a-8&pdp_ext_f=%7B%22sku_id%22%3A%2212000025074729628%22%7D&pdp_pi=-1%3B4766.0%3B-1%3B255.0%40salePrice%3BJPY%3Bsearch-mainSearch)
 
 * ギアの設計方法：
 
-    https://keiorogiken.wordpress.com/2017/12/17/%e6%ad%af%e8%bb%8a%e3%81%ae%e5%9f%ba%e7%a4%8e/
+    [https://keiorogiken.wordpress.com/2017/12/17/%e6%ad%af%e8%bb%8a%e3%81%ae%e5%9f%ba%e7%a4%8e/](https://keiorogiken.wordpress.com/2017/12/17/%e6%ad%af%e8%bb%8a%e3%81%ae%e5%9f%ba%e7%a4%8e/)
 
 * ベルトプーリーとギアの違い（動画）：
 
-    https://www.youtube.com/watch?v=s7oVTGv9uy4&t=85s
+    [https://www.youtube.com/watch?v=s7oVTGv9uy4&t=85s](https://www.youtube.com/watch?v=s7oVTGv9uy4&t=85s)
 
 
 # 4. 第３回設計課題
