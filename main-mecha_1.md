@@ -168,7 +168,7 @@ CADデータをダウンロードするとCAD上で仕組みを確認するこ�
 
 実際に動画で解説されているものがあるので確認してみましょう。
 
-<iframe width="1920" height="1080" src="https://www.youtube.com/watch?v=s7oVTGv9uy4&t=85s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/watch?v=s7oVTGv9uy4&t=85s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 軸間距離が長く取れるというのは、やはり昇降装置にて活躍すると思います。エレベーターなどにも似たような機構が採用されているので、興味がある方は調べてみてください。昇降などの直動機構を作成する際にはモーターをなるべく動かさないということも大切な要素となってくるので、そのような場合にベルトプーリーは威力を発揮します。
 
