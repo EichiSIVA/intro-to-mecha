@@ -43,7 +43,7 @@
 
 
 ![img](https://keiorogiken.files.wordpress.com/2016/12/e382ade383bc-e9808fe9818ee59bb3.png?w=1024)
-（https://keiorogiken.wordpress.com/2016/12/15/%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e8%a8%ad%e8%a8%88%e3%81%ae%e5%8b%98%e6%89%80%e3%80%80%ef%bd%9e%e8%bb%b8%e3%81%a8%e5%9b%9e%e8%bb%a2%e4%bd%93%e3%81%ae%e7%b7%a0%e7%b5%90%ef%bd%9e/ より引用）
+（[https://keiorogiken.wordpress.com/2016/12/15/%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e8%a8%ad%e8%a8%88%e3%81%ae%e5%8b%98%e6%89%80%e3%80%80%ef%bd%9e%e8%bb%b8%e3%81%a8%e5%9b%9e%e8%bb%a2%e4%bd%93%e3%81%ae%e7%b7%a0%e7%b5%90%ef%bd%9e/](https://keiorogiken.wordpress.com/2016/12/15/%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e8%a8%ad%e8%a8%88%e3%81%ae%e5%8b%98%e6%89%80%e3%80%80%ef%bd%9e%e8%bb%b8%e3%81%a8%e5%9b%9e%e8%bb%a2%e4%bd%93%e3%81%ae%e7%b7%a0%e7%b5%90%ef%bd%9e/) より引用）
 
 ### その他の締結方法（参考）
 回転体と軸の締結方法については、ロ技研の先輩が記事でまとめています。気になる方は [こちら](https://keiorogiken.wordpress.com/2016/12/15/%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e8%a8%ad%e8%a8%88%e3%81%ae%e5%8b%98%e6%89%80%e3%80%80%ef%bd%9e%e8%bb%b8%e3%81%a8%e5%9b%9e%e8%bb%a2%e4%bd%93%e3%81%ae%e7%b7%a0%e7%b5%90%ef%bd%9e/) をチェックしてみてください。
