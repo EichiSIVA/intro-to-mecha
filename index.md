@@ -31,3 +31,5 @@
 ### その他
 
  - [CADデータのダウンロード方法](download_cad.md)
+
+ - [図面テンプレートの設定](draw_templete.md)
