@@ -8,7 +8,7 @@
 ## 材料
 * エアシリンダー（ストローク10mm）（[こちら](https://jp.misumi-ec.com/vona2/detail/110300363940/?PNSearch=MSPCB10-30&HissuCode=MSPCB10-30) からダウンロード）（1個）
 
-* リニアレール（幅15mm、140mm）（[こちら](https://jp.misumi-ec.com/vona2/detail/110301962560/?PNSearch=SROM15-140&HissuCode=SROM15-140) からダウンロード）（1個）
+* リニアレール（幅15mm、140mm）（[こちら](https://jp.misumi-ec.com/vona2/detail/110301962560/?HissuCode=SROMST15-140-T1&PNSearch=SROMST15-140-T1&KWSearch=SROMST15-140-T1&searchFlow=results2products&list=PageSearchResult) からダウンロード）（1個）
 
 * 15mm × 10mm アルミ板（厚さ10mm）（1個）
 
