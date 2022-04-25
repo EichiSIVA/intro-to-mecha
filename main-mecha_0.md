@@ -204,6 +204,7 @@ DCモータ単体ではトルクがいまいち足りないことが多々ある
 * [https://jp.misumi-ec.com/vona2/detail/110300335060/](https://jp.misumi-ec.com/vona2/detail/110300335060/)
 * [https://punjabisongspb.com/?p=173](https://punjabisongspb.com/?p=173)
 * [https://hackmd.io/@moden3/HJzjAS9BD#空気圧](https://hackmd.io/@moden3/HJzjAS9BD#%E7%A9%BA%E6%B0%97%E5%9C%A7)
+* [https://akizukidenshi.com/catalog/g/gP-00111/](https://akizukidenshi.com/catalog/g/gP-00111/)
 
 ## 第２回設計課題
 今回の設計課題については [こちら](./exercise_2.md) をご覧ください。
