@@ -22,7 +22,13 @@
 
 ロボコンなどで使われるモータは4種類あります
 
-1. ブラシ付きDCモータ　2. ブラシレスDCモータ　3. ステッピングモータ　4. サーボモータ
+1. ブラシ付きDCモータ　
+
+2. ブラシレスDCモータ　
+
+3. ステッピングモータ　
+
+4. サーボモータ
 
 この中でブラシ付きDCモータは減速機といわれるものをつけて利用されることが非常に多いです
 
@@ -104,6 +110,15 @@ DCモータ単体ではトルクがいまいち足りないことが多々ある
 
 ほかのサイトでも売られているので、値段と納期で比較してどこで買うかを決めましょう
 
+## 可変抵抗器（ポテンショメータ）
+![ig](https://akizukidenshi.com/img/goods/L/P-00111.jpg)
+
+可変抵抗器はエンコーダと同じく、回転を測定することができますがエンコーダが相対的な測定に対し、可変抵抗器は絶対的な位置制御を可能にします
+
+但し、サーボモータと同じように回転角に限界があります
+
+秋月電子などで売られているので、各自確認しましょう
+
 ## エアシリンダについて
 
 エアシリンダはモータと違って、回転運動ではなく直進運動を発生させます
@@ -176,18 +191,18 @@ DCモータ単体ではトルクがいまいち足りないことが多々ある
 指令のタイミングが違ったり、それぞれ違う指令だったりするときには電磁弁は複数個必要になります![imgage2](./img/image%20(2).png)
 
 ## 参考文献
-* https://media.suzakugiken.jp/suzaku/catalogue/catalog_dcgm_RS775GM.pdf
-* https://ev-tech.jp/technology/motor/page001.html
-* https://www.tamiya.com/japan/robocon/topics/gearedmotor170928.html
-* https://www.orientalmotor.co.jp/om/knowledge/uroko_bl/bl02.html
-* https://akizukidenshi.com/catalog/g/gP-05372/
-* https://www.digikey.jp/ja/products/detail/cui-devices/AMT102-V/827015
-* https://www.monotaro.com/g/00161736/
+* [https://media.suzakugiken.jp/suzaku/catalogue/catalog_dcgm_RS775GM.pdf](https://media.suzakugiken.jp/suzaku/catalogue/catalog_dcgm_RS775GM.pdf)
+* [https://ev-tech.jp/technology/motor/page001.html](https://ev-tech.jp/technology/motor/page001.html)
+* [https://www.tamiya.com/japan/robocon/topics/gearedmotor170928.html](https://www.tamiya.com/japan/robocon/topics/gearedmotor170928.html)
+* [https://www.orientalmotor.co.jp/om/knowledge/uroko_bl/bl02.html](https://www.orientalmotor.co.jp/om/knowledge/uroko_bl/bl02.html)
+* [https://akizukidenshi.com/catalog/g/gP-05372/](https://akizukidenshi.com/catalog/g/gP-05372/)
+* [https://www.digikey.jp/ja/products/detail/cui-devices/AMT102-V/827015](https://www.digikey.jp/ja/products/detail/cui-devices/AMT102-V/827015)
+* [https://www.monotaro.com/g/00161736/](https://www.monotaro.com/g/00161736/)
 
 * [https://jp.misumi-ec.com/vona2/detail/221006300138/](https://jp.misumi-ec.com/vona2/detail/221006300138/?KWSearch=%e3%82%a8%e3%82%a2%e3%82%b7%e3%83%aa%e3%83%b3%e3%83%80&searchFlow=results2products&list=PageSearchResult)
-* https://jp.misumi-ec.com/vona2/detail/221006294972/?list=PageCategory
-* https://jp.misumi-ec.com/vona2/detail/110300335060/
-* https://punjabisongspb.com/?p=173
+* [https://jp.misumi-ec.com/vona2/detail/221006294972/?list=PageCategory](https://jp.misumi-ec.com/vona2/detail/221006294972/?list=PageCategory)
+* [https://jp.misumi-ec.com/vona2/detail/110300335060/](https://jp.misumi-ec.com/vona2/detail/110300335060/)
+* [https://punjabisongspb.com/?p=173](https://punjabisongspb.com/?p=173)
 * [https://hackmd.io/@moden3/HJzjAS9BD#空気圧](https://hackmd.io/@moden3/HJzjAS9BD#%E7%A9%BA%E6%B0%97%E5%9C%A7)
 
 ## 第２回設計課題

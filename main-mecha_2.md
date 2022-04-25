@@ -192,8 +192,8 @@
 
 * おまけ　疑似歩行リンク
 
-まるで歩行している可能ように見えるリンクです
-https://twitter.com/i/status/1246614778392576000
+[まるで歩行している可能ように見えるリンクです]
+(https://twitter.com/i/status/1246614778392576000)
 
 他の疑似歩行リンク
 
@@ -233,10 +233,10 @@ https://twitter.com/i/status/1246614778392576000
 
 * [リンク機構の例一覧【40動画以上】 - 機械設計学習館](https://md-study.com/link-mechanism/#i-20)
 * [支点段付ねじ　六角穴 \| ミスミ \| MISUMI-VONA【ミスミ】](https://jp.misumi-ec.com/vona2/detail/110302642870/?list=PageCategory)
-* https://d-engineer.com/kikaiyouso/link.html
-* http://karakurist.jp/?p=52
+* [https://d-engineer.com/kikaiyouso/link.html](https://d-engineer.com/kikaiyouso/link.html)
+* [http://karakurist.jp/?p=52](http://karakurist.jp/?p=52)
 * [【部品組合せテンプレート】 リンクを用いた簡易位置決め機構 \| inCAD Library (misumi-ec.com)](https://jp.misumi-ec.com/ec/incadlibrary/detail/000835.html)
-* https://twitter.com/UniverCurious/status/1246614778392576000
+*[https://twitter.com/UniverCurious/status/1246614778392576000](https://twitter.com/UniverCurious/status/1246614778392576000) 
 
 
 # 4. 第４回設計課題
