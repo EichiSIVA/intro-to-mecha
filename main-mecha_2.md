@@ -236,7 +236,7 @@
 * [https://d-engineer.com/kikaiyouso/link.html](https://d-engineer.com/kikaiyouso/link.html)
 * [http://karakurist.jp/?p=52](http://karakurist.jp/?p=52)
 * [【部品組合せテンプレート】 リンクを用いた簡易位置決め機構 \| inCAD Library (misumi-ec.com)](https://jp.misumi-ec.com/ec/incadlibrary/detail/000835.html)
-*[https://twitter.com/UniverCurious/status/1246614778392576000](https://twitter.com/UniverCurious/status/1246614778392576000) 
+* [https://twitter.com/UniverCurious/status/1246614778392576000](https://twitter.com/UniverCurious/status/1246614778392576000) 
 
 
 # 4. 第４回設計課題
