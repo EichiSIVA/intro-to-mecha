@@ -217,7 +217,7 @@
 
  よって、リンク機構の設計及び利用する際には、リンクには回転角度に限界があることに注意しましょう！
 
- ## スライド
+## スライド
 
  <iframe src="https://onedrive.live.com/embed?cid=F46394284A6AC4B6&amp;resid=F46394284A6AC4B6%2111743&amp;authkey=AHTv2YAYIrW4B30&amp;em=2&amp;wdAr=1.7777777777777777" style="aspect-ratio:32/19;width:'100%';height:'100%'" width="100%" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
 
