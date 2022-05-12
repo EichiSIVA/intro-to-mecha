@@ -192,7 +192,7 @@ DCモータ単体ではトルクがいまいち足りないことが多々ある
 
 ## スライド
 
-<iframe src="https://keiojp0-my.sharepoint.com/personal/t16400_keio_jp/_layouts/15/Doc.aspx?sourcedoc={3fdee7a2-2bd0-4e6c-81d6-2a5e6cd2a479}&amp;action=embedview&amp;wdAr=1.7777777777777777" style="aspect-ratio:16/9;width:'100%';height:'100%'"　width = "100%" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
+<iframe src="https://keiojp0-my.sharepoint.com/personal/t16400_keio_jp/_layouts/15/Doc.aspx?sourcedoc={3fdee7a2-2bd0-4e6c-81d6-2a5e6cd2a479}&amp;action=embedview&amp;wdAr=1.7777777777777777" style="aspect-ratio:16/9;width:'100%';height:'100%'" width = "100%" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
 
 ## 参考文献
 * [https://media.suzakugiken.jp/suzaku/catalogue/catalog_dcgm_RS775GM.pdf](https://media.suzakugiken.jp/suzaku/catalogue/catalog_dcgm_RS775GM.pdf)
