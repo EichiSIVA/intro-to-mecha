@@ -182,6 +182,12 @@ DCモータ単体ではトルクがいまいち足りないことが多々ある
 
 #### 電磁弁
 
+[シングルソレノイドとダブルソレノイド](https://www.iwakipumps.jp/blog/naruhodo/27/)
+
+![nande](https://i0.wp.com/www.iwakipumps.jp/wp-content/uploads/2016/01/blog_hmmm27-1.gif)
+
+![aho](https://i2.wp.com/www.iwakipumps.jp/wp-content/uploads/2016/01/blog_hmmm27-2.gif)
+
 モータで言うところのモータドライバにあたる部分が電磁弁となります。
 制御するのに必要なので、電装及び制御と話し合っておきましょう。
 
