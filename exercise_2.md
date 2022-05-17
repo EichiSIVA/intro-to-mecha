@@ -15,6 +15,7 @@
 
 ![motorsize.jpeg](./img/motorsize.jpeg)
 
+
 2. CADデータ[「モーターマウント」](./CAD_data/Tamiya_MotorMount.SLDPRT)をダウンロードし、作成したTamiya 380K75と組み合わせたアセンブリを作成してみましょう
 
 
